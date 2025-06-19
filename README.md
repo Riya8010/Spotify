@@ -6,9 +6,13 @@ Project Category: Advanced
 This project delves into a Spotify dataset to answer a series of business questions using SQL queries. It showcases skills in data manipulation, aggregation, and performance optimization within a relational database context.
 
  **Features**
+
 **Data Ingestion & Cleaning:** Demonstrates initial data loading and handling of common data inconsistencies (e.g., incorrect data types, illogical values).
+
 **Exploratory Data Analysis (EDA):** Uses SQL queries to understand the dataset's structure, size, and key characteristics.
+
 **Business Problem Solving:** Addresses over 15 distinct business questions categorized by difficulty (Easy, Medium, Advanced).
+
 **Advanced SQL Concepts:** Implements various SQL features including:
 -GROUP BY and HAVING
 -Subqueries
